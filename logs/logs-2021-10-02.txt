@@ -1,0 +1,126 @@
+*** Welcome to the SLP Payout program *** (2021-10-02 00:33:39.765926)
+Checking for unclaimed SLP.
+
+Please review the payouts for each scholar:
+
+Payout for 'Bird'
+├─ SLP balance: 9149 SLP
+├─ Nonce: 14
+├─ Scholar payout: send  7320 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4
+├─ Academy payout: send  1829 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:7A072B096EF16432044FF4589B24CF470c01C019
+└─ Fee           : send     0 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:A0CAa7803205026ec08818664c4211aFF7565f56
+
+Would you like to execute transactions (y/n) ? No transaction was executed. Program will now stop.
+*** Welcome to the SLP Payout program *** (2021-10-02 01:31:39.558003)
+Checking for unclaimed SLP.
+
+Please review the payouts for each scholar:
+
+Payout for 'Bird'
+├─ SLP balance: 9149 SLP
+├─ Nonce: 14
+├─ Scholar payout: send  7320 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4
+├─ Academy payout: send  1829 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:7A072B096EF16432044FF4589B24CF470c01C019
+└─ Fee           : send     0 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:A0CAa7803205026ec08818664c4211aFF7565f56
+
+Would you like to execute transactions (y/n) ? 
+Executing transactions...
+Executing payout for 'Bird'
+├─ Scholar payout: sending 7320 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4...*** Welcome to the SLP Payout program *** (2021-10-02 01:32:46.659741)
+Checking for unclaimed SLP.
+
+Please review the payouts for each scholar:
+
+Payout for 'Bird'
+├─ SLP balance: 9149 SLP
+├─ Nonce: 14
+├─ Scholar payout: send  7320 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4
+├─ Academy payout: send  1829 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:7A072B096EF16432044FF4589B24CF470c01C019
+└─ Fee           : send     0 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:A0CAa7803205026ec08818664c4211aFF7565f56
+
+Would you like to execute transactions (y/n) ? 
+Executing transactions...
+Executing payout for 'Bird'
+├─ Scholar payout: sending 7320 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4...DONE
+│  Hash: 0x3fbc56ff10082835dab18454e50a0534024f08fa53a8420ec5c499b728f7cf53 - Explorer: https://explorer.roninchain.com/tx/0x3fbc56ff10082835dab18454e50a0534024f08fa53a8420ec5c499b728f7cf53
+├─ Academy payout: sending 1829 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:7A072B096EF16432044FF4589B24CF470c01C019...DONE
+│  Hash: 0x578bcdd7a92040ba426098faf140fec1c365469aa1834090a66378c658e1d515 - Explorer: https://explorer.roninchain.com/tx/0x578bcdd7a92040ba426098faf140fec1c365469aa1834090a66378c658e1d515
+└─ Fee payout: sending 0 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:A0CAa7803205026ec08818664c4211aFF7565f56...DONE
+   Hash: 0x33177ce723afb99cb34b98bc05ffc6fd957b9dd118257ef30080d34e7122f13a - Explorer: https://explorer.roninchain.com/tx/0x33177ce723afb99cb34b98bc05ffc6fd957b9dd118257ef30080d34e7122f13a
+
+*** Welcome to the SLP Payout program *** (2021-10-02 02:07:33.217091)
+*** Welcome to the SLP Payout program *** (2021-10-02 02:07:51.283722)
+Checking for unclaimed SLP.
+
+Please review the payouts for each scholar:
+*** Welcome to the SLP Payout program *** (2021-10-02 02:29:34.232511)
+Checking for unclaimed SLP.
+Account 'JY' (nonce: 18) has 1105 unclaimed SLP.
+Would you like to claim SLP? 
+Please review the payouts for each scholar:
+Skipping account 'JY' (ronin:514F2542C6e8A5Cd18f5dB4D86B7575e353Eb199) because SLP balance is zero.
+
+Payout for 'Bird'
+├─ SLP balance: 7485 SLP
+├─ Nonce: 17
+├─ Scholar payout: send  5988 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4
+├─ Academy payout: send  1497 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:7A072B096EF16432044FF4589B24CF470c01C019
+└─ Fee           : send     0 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:A0CAa7803205026ec08818664c4211aFF7565f56
+
+Would you like to execute transactions (y/n) ? No transaction was executed. Program will now stop.
+*** Welcome to the SLP Payout program *** (2021-10-02 02:33:26.707288)
+Checking for unclaimed SLP.
+Account 'JY' (nonce: 18) has 1105 unclaimed SLP.
+Would you like to claim SLP? 
+Please review the payouts for each scholar:
+Skipping account 'JY' (ronin:514F2542C6e8A5Cd18f5dB4D86B7575e353Eb199) because SLP balance is zero.
+
+Payout for 'Bird'
+├─ SLP balance: 7485 SLP
+├─ Nonce: 17
+├─ Scholar payout: send  5988 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4
+├─ Academy payout: send  1497 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:7A072B096EF16432044FF4589B24CF470c01C019
+└─ Fee           : send     0 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:A0CAa7803205026ec08818664c4211aFF7565f56
+
+Would you like to execute transactions (y/n) ? No transaction was executed. Program will now stop.
+*** Welcome to the SLP Payout program *** (2021-10-02 02:36:19.205795)
+Checking for unclaimed SLP.
+Account 'JY' (nonce: 18) has 1105 unclaimed SLP.
+Would you like to claim SLP?    Claiming 1105 SLP for 'JY'...DONE
+Waiting 30 seconds..............................
+All claims completed successfully!
+
+Please review the payouts for each scholar:
+
+Payout for 'Bird'
+├─ SLP balance: 7485 SLP
+├─ Nonce: 17
+├─ Scholar payout: send  5988 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4
+├─ Academy payout: send  1497 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:7A072B096EF16432044FF4589B24CF470c01C019
+└─ Fee           : send     0 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:A0CAa7803205026ec08818664c4211aFF7565f56
+
+Payout for 'JY'
+├─ SLP balance: 1105 SLP
+├─ Nonce: 19
+├─ Scholar payout: send   884 SLP from ronin:514F2542C6e8A5Cd18f5dB4D86B7575e353Eb199 to ronin:514F2542C6e8A5Cd18f5dB4D86B7575e353Eb199
+├─ Academy payout: send   221 SLP from ronin:514F2542C6e8A5Cd18f5dB4D86B7575e353Eb199 to ronin:7A072B096EF16432044FF4589B24CF470c01C019
+└─ Fee           : send     0 SLP from ronin:514F2542C6e8A5Cd18f5dB4D86B7575e353Eb199 to ronin:A0CAa7803205026ec08818664c4211aFF7565f56
+
+Would you like to execute transactions (y/n) ? 
+Executing transactions...
+Executing payout for 'Bird'
+├─ Scholar payout: sending 5988 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4...DONE
+│  Hash: 0x594109e4db36ae3a1b03066aec5b640292abb9988a063c51561736ec48eb2839 - Explorer: https://explorer.roninchain.com/tx/0x594109e4db36ae3a1b03066aec5b640292abb9988a063c51561736ec48eb2839
+├─ Academy payout: sending 1497 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:7A072B096EF16432044FF4589B24CF470c01C019...DONE
+│  Hash: 0x605e05b573c02b45d2fa720108dde92fdcfa358c6ac35a368905d2ae15d73d04 - Explorer: https://explorer.roninchain.com/tx/0x605e05b573c02b45d2fa720108dde92fdcfa358c6ac35a368905d2ae15d73d04
+└─ Fee payout: sending 0 SLP from ronin:2c881c020004059b6deFC6aB553DD0953bbEfaa4 to ronin:A0CAa7803205026ec08818664c4211aFF7565f56...DONE
+   Hash: 0x649d0e2efbf4e70536b4139edf29f11bd94019906691d2d54563272ef5be1e31 - Explorer: https://explorer.roninchain.com/tx/0x649d0e2efbf4e70536b4139edf29f11bd94019906691d2d54563272ef5be1e31
+
+Executing payout for 'JY'
+├─ Scholar payout: sending 884 SLP from ronin:514F2542C6e8A5Cd18f5dB4D86B7575e353Eb199 to ronin:514F2542C6e8A5Cd18f5dB4D86B7575e353Eb199...DONE
+│  Hash: 0xc093049a66640d5bda67cb9e3f79112b3b2bda7696868b959d60f5bdbf43e98e - Explorer: https://explorer.roninchain.com/tx/0xc093049a66640d5bda67cb9e3f79112b3b2bda7696868b959d60f5bdbf43e98e
+├─ Academy payout: sending 221 SLP from ronin:514F2542C6e8A5Cd18f5dB4D86B7575e353Eb199 to ronin:7A072B096EF16432044FF4589B24CF470c01C019...DONE
+│  Hash: 0xcf2d8a4534ec5b80c15b9a991afd3f09120511ce525d17103ee0861a0de83f9c - Explorer: https://explorer.roninchain.com/tx/0xcf2d8a4534ec5b80c15b9a991afd3f09120511ce525d17103ee0861a0de83f9c
+└─ Fee payout: sending 0 SLP from ronin:514F2542C6e8A5Cd18f5dB4D86B7575e353Eb199 to ronin:A0CAa7803205026ec08818664c4211aFF7565f56...DONE
+   Hash: 0xb2d072fac2f4f1d5286bca1cdbf7c5674b7970578121bb9478f1227cb5d503ea - Explorer: https://explorer.roninchain.com/tx/0xb2d072fac2f4f1d5286bca1cdbf7c5674b7970578121bb9478f1227cb5d503ea
+

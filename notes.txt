@@ -1,0 +1,17 @@
+1. Collect every 2 weeks
+2. Payout 1st 
+
+1. Import Script
+- Take excel sheet, -> Scholar JSON
+
+2. Collection Script 
+- Collects and sends to some collection wallet (GFG Main)
+- Import Data from excel sheet to JSON file
+- Extract Scholar Name and SLP Collected into csv format
+
+3. Payout Script
+- Payout
+- Absolute Amount
+- Extract Scholar Name and SLP Payout into csv format
+
+Input: Sheet of ronin wallets and address

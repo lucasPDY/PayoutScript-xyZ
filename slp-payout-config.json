@@ -1,20 +1,21 @@
 {
-    "AcademyPayoutAddress": "ronin:<Academy address here>",
+    "AcademyPayoutAddress": "ronin:7a072b096ef16432044ff4589b24cf470c01c019",
     "Scholars":[
         {
-            "Name": "Scholar 1",
-            "PrivateKey": "0x<private key here>",
-            "AccountAddress": "ronin:<from_address>",
-            "ScholarPayoutAddress": "ronin:<scholar_address>",
-            "ScholarPayoutPercentage": 0.5,
+            "Name": "Bird",
+            "PrivateKey": "",
+            "AccountAddress": "",
+            "ScholarPayoutAddress": "",
+            "ScholarPayoutPercentage": 0.8,
             "ScholarPayoutPercentage_description": "Value between 0 and 1. Represents the percentage the scholar will receive. The rest is sent to the academy."
         },
         {
-            "Name": "Scholar 1",
-            "PrivateKey": "0x<private key here>",
-            "AccountAddress": "ronin:<from_address>",
-            "ScholarPayoutAddress": "ronin:<scholar_address>",
-            "ScholarPayoutPercentage": 0.5
+            "Name": "JY",
+            "PrivateKey": "",
+            "AccountAddress": "",
+            "ScholarPayoutAddress": "",
+            "ScholarPayoutPercentage": 0.8,
+            "ScholarPayoutPercentage_description": "Value between 0 and 1. Represents the percentage the scholar will receive. The rest is sent to the academy."
         }
     ]
 }
